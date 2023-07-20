@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+ .navbar{
+  background-color: #235358;
+  text-align: center;
+  font-style: italic;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 2px solid black;
+  border-radius: 25px;
+  color: white;
+ }
+
+ .list-title{
+  text-align: center;
+  font-style: italic;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ 
+ .list-card{
+  margin-left: 155px;
+ }
+ .card{
+  width: 80%;
+  border: 2px solid grey;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  font-style: italic;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 20px;
+  height: auto;
+  background-color: #235358;
+  color: white;
+ }
+
+ .id{
+  margin: 125px;
+ }
+
+ .update-btn,.delete-btn{
+  font-size: 24px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  padding: 6px;
+  margin: 11px;
+  text-align: center;
+  font-style: italic;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ .update-btn{
+  background-color: blueviolet;
+  color: white;
+ }
+
+ .delete-btn{
+  background-color: red;
+  color: white;
+ }
+
+
+
+ .form-label{
+  display: inline-block;
+  width: 400px;
+  font-style: italic;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 10px;
+  font-size: 24px;
+ }
+
+ input{
+  width: 400px;
+  height: 30px;
+  border-radius: 20px;
+  text-align: center;
+  font-style: italic;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 10px;
+  font-size: 24px;
+ }
+
